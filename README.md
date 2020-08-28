@@ -1,5 +1,5 @@
-# Twitter-Scraping
-Scraping Twitter about a particular topic / some hashtags using Tweepy.
+# Twitter-Scraping + Sentiment Analysis using VADER
+Scraping Twitter about a particular topic / some hashtags using Tweepy and its Sentiment Analysis using VADER.
 ### Project Title: #BlackLivesMatter ✊✊✊: VADER Sentiment Analysis of Twitter using Python.
 **A detailed Explaination can be found on Medium** <br />
 Follow the link to go to the Medium Article wriiten by me and publised on **Towards AI**. <br />
